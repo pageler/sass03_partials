@@ -1,1 +1,1 @@
-Exercise in working with Scss partials.
+Exercise in working with Sass partials.
