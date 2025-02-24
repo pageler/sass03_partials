@@ -1,0 +1,1 @@
+Exercise in working with Scss partials.
