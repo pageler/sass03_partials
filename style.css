@@ -1,1 +1,31 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: sans-serif;
+  padding: 15px;
+  position: fixed;
+  width: 100%;
+  background-color: #fff;
+}
+nav .logo-container {
+  margin-left: 40px;
+}
+nav ul {
+  margin-right: 40px;
+}
+nav ul li {
+  display: inline;
+  list-style: none;
+  margin-left: 30px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #000;
+}/*# sourceMappingURL=style.css.map */
