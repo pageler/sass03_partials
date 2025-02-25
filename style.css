@@ -77,4 +77,38 @@ main .main-btn:active {
   background-color: lightgreen;
   box-shadow: 0 2.55px #666;
   transform: translateY(4px);
+}
+
+.card {
+  height: 80vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.card .card-content {
+  width: 400px;
+  height: 300px;
+  padding: 20px;
+  margin: 0 6rem;
+  font-family: sans-serif;
+}
+.card .card-content h1 {
+  font-size: 3rem;
+  font-family: sans-serif;
+}
+.card .card-content p {
+  margin: 20px 0;
+  margin-bottom: 40px;
+  line-height: 1.5rem;
+}
+.card .card-content a {
+  text-decoration: none;
+  color: #fff;
+  background-color: green;
+  padding: 10px 10px;
+  margin-bottom: 20px;
+}
+.card .card-img {
+  width: 400px;
 }/*# sourceMappingURL=style.css.map */

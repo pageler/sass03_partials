@@ -1,4 +1,10 @@
 HuXn WebDev Tutorials https://github.com/huxn-webdev
 
-Filip Zrnzević
-https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+Filip Zrnzević:
+"https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+
+Alif Ngoylung:
+"https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+
+Kim Becker:
+"https://images.unsplash.com/photo-1603574670812-d24560880210?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
